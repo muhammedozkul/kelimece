@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Kelimece</title>
+  <meta name="description" content="Kelimece: altı denemede beş harfli Türkçe kelimeyi bul. Sınırsız oyna.">
+  <link rel="stylesheet" href="stil.css">
+</head>
+<body>
+  <div class="uygulama">
+    <header class="ust">
+      <button class="ikon-dugme" id="yardimDugme" aria-label="Nasıl oynanır">?</button>
+      <h1 class="logo" aria-label="Kelimece">
+        <span>K</span><span>e</span><span>l</span><span>i</span><span>m</span><span>e</span><span>c</span><span>e</span>
+      </h1>
+      <div class="ust-sag">
+        <button class="ikon-dugme" id="temaDugme" aria-label="Tema değiştir">◐</button>
+        <button class="ikon-dugme" id="istatDugme" aria-label="İstatistikler">▤</button>
+      </div>
+    </header>
+
+    <div class="seri-serit" id="seriSerit"></div>
+
+    <main class="alan" id="alan">
+      <div class="tahta" id="tahta" aria-label="Tahmin tahtası"></div>
+    </main>
+
+    <div class="klavye" id="klavye" aria-label="Ekran klavyesi"></div>
+  </div>
+
+  <div class="bildirimler" id="bildirimler" aria-live="polite"></div>
+
+  <!-- Nasıl oynanır -->
+  <div class="perde" id="yardimPerde" hidden>
+    <div class="pencere" role="dialog" aria-labelledby="yardimBaslik">
+      <button class="kapat" data-kapat aria-label="Kapat">×</button>
+      <h2 id="yardimBaslik">Nasıl oynanır?</h2>
+      <p>Aklımdan <b>5 harfli</b> bir Türkçe kelime tuttum. Bulmak için <b>6 hakkın</b> var.</p>
+      <p>Her tahminden sonra harflerin rengi ipucu verir:</p>
+      <div class="ornek">
+        <div class="ornek-satir">
+          <span class="kare dogru">K</span><span class="kare">A</span><span class="kare">L</span><span class="kare">E</span><span class="kare">M</span>
+        </div>
+        <p><b>K</b> kelimede var ve tam yerinde.</p>
+        <div class="ornek-satir">
+          <span class="kare">Ç</span><span class="kare">İ</span><span class="kare yakin">Ç</span><span class="kare">E</span><span class="kare">K</span>
+        </div>
+        <p><b>Ç</b> kelimede var ama başka bir yerde.</p>
+        <div class="ornek-satir">
+          <span class="kare">D</span><span class="kare">E</span><span class="kare">N</span><span class="kare yok">İ</span><span class="kare">Z</span>
+        </div>
+        <p><b>İ</b> kelimede hiç yok.</p>
+      </div>
+      <p>Tahminler sözlükteki gerçek kelimeler olmalı. <b>I / İ</b> ile <b>O / Ö</b> gibi harfler ayrı sayılır.</p>
+      <p>Oyun sınırsız: bir kelime bitince hemen yenisi gelir. Bildikçe serin büyür!</p>
+      <p class="kucuk">Klavye: harfleri yaz, <kbd>Enter</kbd> ile gönder, <kbd>⌫</kbd> ile sil.</p>
+    </div>
+  </div>
+
+  <!-- İstatistik / sonuç -->
+  <div class="perde" id="istatPerde" hidden>
+    <div class="pencere" role="dialog" aria-labelledby="istatBaslik">
+      <button class="kapat" data-kapat aria-label="Kapat">×</button>
+      <div class="sonuc" id="sonucKutu" hidden>
+        <p class="sonuc-mesaj" id="sonucMesaj"></p>
+        <div class="sonuc-kelime" id="sonucKelime"></div>
+      </div>
+      <h2 id="istatBaslik">İstatistikler</h2>
+      <div class="sayilar">
+        <div><b id="sOyun">0</b><span>Oyun</span></div>
+        <div><b id="sYuzde">0</b><span>Kazanma %</span></div>
+        <div><b id="sSeri">0</b><span>Şu anki seri</span></div>
+        <div><b id="sEnIyi">0</b><span>En iyi seri</span></div>
+      </div>
+      <h3>Kaçıncı tahminde bildin?</h3>
+      <div class="dagilim" id="dagilim"></div>
+      <div class="dugmeler" id="sonucDugmeler" hidden>
+        <button class="dugme ikincil" id="paylasDugme">Sonucu kopyala</button>
+        <button class="dugme" id="yeniDugme">Yeni kelime ⏎</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="kelimeler.js"></script>
+  <script src="oyun.js"></script>
+</body>
+</html>

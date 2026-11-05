@@ -1,0 +1,31 @@
+# Seçilecek cevaplar: yaygın, 5 harfli Türkçe kelimeler (yalın hâl).
+# Kelimece için elle derlendi (2026-11-05). Satır başına bir kelime, küçük harf.
+acele acemi adres ahize ahlak ahşap akşam aktör alarm albüm alçak alkış almak altın ambar anlam anket anons araba arazi arıza armut artık asker aslan astar atlas avize ayran akrep aktif alıcı aracı arena aşama azgın ahenk ajans akıcı aksan aroma aşure atmak aynen
+badem bakır bakış balık balon banka barış basit baskı başka batık bavul bayat bayır bebek bekçi belge beyaz beyin biber bilet bilgi bıçak birey birim bitki boğaz bomba borsa boyut böcek bölge bölüm börek bulut burun büyük bütün bahar bahçe bakan balta banyo barut başak batak bıyık biçim bilek bozuk buket bugün bölük baraj beden bedel beşik beton bilye boyun
+cadde cahil canlı cesur cevap ceviz ceket cimri cümle cazip cebir ceset cihaz ciğer civar
+çadır çakal çakıl çalgı çamur çanak çanta çarşı çatal çayır çekiç çelik çeşit çeşme çevre çeyiz çıkış çınar çiçek çilek çizgi çizme çoban çocuk çorap çorba çukur çürük çağrı çarık çavuş çekim çerez çıban çimen çinko çizik çözüm çubuk çuval çorak
+dalga damar damla davul dayak defne değer deniz dergi derin desen deste devam devir deyim dilek dilim direk dişçi doğal doğru dolap dolma domuz donuk duman durak duvar duygu düdük düğme düğün dünya düşük düzen damat davet demet demir dizgi dolgu dönem döner dönüş dövme dürüm dahil daire dekor
+ekmek eksik elmas emlak engel erkek erken esnaf esnek eşarp evrak evren eylem ezber ekran enfes erzak etken etraf evcil evlat ergen emzik
+fakir falcı fazla fener fidan fikir filiz firma fırça fırın fiyat fizik fitil fıkra fosil
+gazoz gelin genel gerek gidiş giriş gizem gizli gölge görev görüş güneş güzel gübre güçlü gülüş gümüş günah güreş güven galip garaj garip gayet geçit geçiş giysi göbek göğüs gölet görgü gurur
+hakem hakim halat halka hamal hamam hamur hasat hasta hayal hayat hayır hazır helva hemen hesap heves hindi hisse horoz hukuk huzur hüner hırka hücre hüküm hamle hasır havlu havuç havuz hedef hekim hilal hitap
+ırmak ıslak ıssız
+ifade ihale ikram ikili iklim ilham ilkel imkan inanç insan irade isyan işlem ibrik idare ilmek iplik israf istek işgal işlev ithal ihlal iksir imece
+jeton jilet
+kabak kablo kader kadın kafes kahve kalem kalın kalıp kanat kanal kanun kapak karar karga kasap kayak kayık kazak kazan kebap kekik keman kemer kenar kepçe kılıç kırık kısım kıyma kibar kiler kilim kilit kimya kiraz kitap komşu konak konum korku koyun köfte köpek köprü kulak kulüp kumaş kutup kuzey küçük kürek kütük kadeh kağıt kakao kalça kamış kanca karne kaşık katil katır kavak kavga kavun kayıt kaygı kazık kazma keder kemik kısır kışla kızak kızıl kimse kirpi kitle kolay komik konuk kopya koşul kömür körük kümes kürsü
+lamba leğen liman limon lokma lokum lider lakap layık levha liste
+macun madde maden makas marul masal maske masum mayıs mekan melek merak mermi mesaj metin metre meyve mezar mısır midye mimar miras model motor mucit mutlu müdür mühür müzik manav marka mecaz melez minik moral
+nabız nadir nakit nakış namaz namus nazar nazik nefes nehir nesil nimet nişan nokta nüfus nasip nohut nöbet
+oğlak olgun orman ortak ortam otlak organ
+ödeme ödünç öğlen ölçek ölçüm önder önlem önlük örnek özgür özlem örgüt ördek
+pamuk parça parti pasta pazar perde peşin petek pilav pilot plaka polis posta poşet prens pudra pürüz pınar panik pasaj pembe pençe
+radyo rahat rakam rakip rapor reçel refah resim resmi rimel ritim rozet roman rampa rekor roket
+sabah sabır sabun sadık sahil sahne sahte sakal sakız salam salça salon saman sanat sanık saray satış sayfa seçim sefer sehpa sekiz sepet sergi serin sevgi sıcak sıfır sınav sınır sınıf silah silgi simit sinek sirke siyah sokak somun sonuç soğan sucuk sabit sakin sancı sargı satır sebze serçe sevap sıçan sihir simge sinir sitem soğuk sofra sonra sorun soyut susam suçlu sütun
+şahin şahıs şapka şarap şarkı şehir şeker şekil şerit şifre şimdi şoför şubat şükür şüphe şafak
+tabak tablo tahta takım takip taksi talep tamir tanık tarak tarla tarif tarih tasma tatil tatlı tavan tavla tavuk teker tekne telaş temel temiz tempo tenis tepki tepsi terzi tetik tilki torba torun tören tuğla turşu turta tutar tutku tuzak tünel türkü tütün tüfek tahıl tahin talih taşıt tavır tayfa tekme terim tesis teyze tıraş titiz tohum topaç topuk
+utanç uyarı uzman uygun unsur
+ücret ünite ünlem üzgün üçgen üstün
+vagon vahşi vakıf vakit valiz vapur vatan vefat vergi verim vezir viraj vişne vites vurgu vücut vaşak vasat vekil video
+yaban yakın yakıt yalan yamaç yanak yarar yarım yarış yaşam yatak yavaş yavru yayla yazar yemek yemin yenge yeşil yetki yılan yığın yolcu yonca yorum yosun yudum yufka yunus yüzey yüzük yağış yakut yalın yanıt yapay yayın yelek yemiş yerel yetim yoğun yokuş yazgı
+zafer zalim zaman zarar zarif zayıf zebra zehir zemin zihin zirve zorlu zurna
+bağış bakım bilim biraz bitiş bütçe belki dokuz doruk döviz dümen dikiş dikey evrim gitar gönül güney hafta henüz hüzün hapis hasar ileri irmik ipucu kabul kabus kaset kaşar katkı kesim kural kurgu kurum kusur keşif keyif kolye köken kucak kumar lanet limit martı mantı mizah metro miyop müjde nefis nemli nikah nisan niyet oğlan palto pedal pompa prova raket ranza robot rende savaş savcı saygı selam senet sevda siper soluk stres sunum surat susuz süngü süslü sıfat şehit şölen tabut takla tamam taraf tartı teori terfi tokat tulum turna tutum tuzlu tümce telve temas ucube uyluk verem yağlı yamuk yarın yasak yaşlı yiğit yonga yürek zanlı zinde zulüm zikir aygıt anten bilge cephe çarpı çizim darbe damak gamze hadis hatip ısrar ihmal imdat itaat kovan kovuk kolon köklü lüfer lügat mabet mısra mizaç namlu oynak olası ölçüt övünç pelin pinti pipet rahip rayiç safir sahip sakat sedir sedye sicil sapan tabla tacir tekil tenha terör tıkaç tortu tövbe tuğra zımba abone açlık adalı ahali alkol ateşli aydın ayrım azade barok bakla bidon boğuk buhar bulgu burgu buruk ceren çetin çökme çöpçü damga denge devre dizin doğum döşek dürtü ebedi ecdat egzoz enkaz esmer eşlik ezeli fanus fayda fidye fişek gelir gergi gönye haber hafif hamsi harem hatır hızlı ispat irfan kesin kıyas kubbe kuşku makam memur metal nadas nefer nesne nezle nüans poyraz sahra saksı sanal savaş seçme serap sıkça soylu tanım takas tuhaf tuzla ürkek yaşlı yazma yerli yıkım

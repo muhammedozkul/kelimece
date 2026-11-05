@@ -1,0 +1,58 @@
+# Yalnız tahmin olarak kabul edilen ek kelimeler (cevap olarak seçilmez).
+# Cevaplar listesi de otomatik olarak kabul edilir. Elle derlendi (2026-11-05).
+alçak arsız ardıç azami ayyaş amper 
+bazen bodur buzul butik biyel
+celal conta cumba cilve
+çalım çaput çömez çıkar
+dalak dalış dakik davar derya dolar duruş dizel
+etkin eskiz efsun ekili
+forum fular fasıl
+gözcü girdi güleç güveç
+harap hokka hamak hoşaf
+ılgın
+iftar ilave inkar iyice içten ibret 
+kasık kefen keski kumru kuruş külah künye kabin kapan kasım kesik kılık kolej koçan kulis kuşak küflü
+lisan lavaş lüzum lütuf
+manto mayın mazot medya mesai mumya mecra mevki meyil
+nakil nazlı nükte
+onluk orada
+peron piyon paten payda
+rezil rehin revir rumuz
+sarık sayaç semer seyir sırma solak sulak sürat sürgü sayım semiz serum silik sözcü sözel
+şakak şamar şerif şurup
+tabur telif tufan tümen tanrı teras tekel toplu torna tümör
+unvan uğraş uyruk
+üslup üstat
+varil varis vasıf volta vakum vezne viski
+yanık yapım yatay yazık yazın yumak yüzme yaygı yazıt yitik yörük yüklü yünlü yüzde
+zabıt zekat ziyan züppe zamir zerre zümre
+evler eller atlar otlar aylar işler yollar kızım evini kedim kuşlar
+abone acıma açlık adamı adalı ağrılı ahali akıllı akraba alkol alçı  altlı ameli anane anlık
+armağan asılı aslen ateşi avara aydın ayışığı aynalı ayrık ayrım azade
+bağlı bakla balçık barok başlı bekar bende benek bezek bıkkın bidon bilgin birer bisiklet boğuk bolca boyalı bozgun buhar bulgu burgu buruk büfeci
+cazcı ceren cinas cüret
+çakar çatkı çekik çerçi çetin çıkık çıplak çiğdem çizer çökme çöpçü
+damga dargın değin denge deneme derman devre dişil dizin doğum  dökme döşek dürbün dürtü
+ebedi ecdat egzoz ekmekçi  emare enkaz  esmer eşlik ezeli
+fanus fayda fidye fişek
+garson gelir gergi gezer gölcük gönye göçmen gözde güzün
+hamsi harem harman hasım hafif haber hatır hayli hızlı hoşça
+ılıca
+icabet içsel iğne ilkin inişli irfan iskan ispat izlek
+kahin kaplan karın kasap kayra kazıma kebapçı kefil kemer kesin kıble kıyas koşum  kubbe  kuşku 
+lacivert  
+mahsul makam mangal masraf meclis memur menzil mesken metal millî mintan misal
+nadas nakil nefer nesne nezle nüans
+ocakçı oklar onlar oğlum orada 
+öbür ödlek öncü öteki  özgün özgül
+palas parlak pazen pilot pirzola poyraz
+ raunt reçine renkli rıza rotası
+sabun sahra saksı sanal sarnıç satıcı savaş sayaç seçme sekte serap sıhhat sıkça sınai sızma sirk soylu sözde suskun
+şahsi şekli  şeref şiddet şişko
+takas takat tanım tasma  tekin temsil tepeli tiryaki toksik torpil tuhaf tuzla
+ufacık ulama umman unutma uzlaşı
+ürkek üstte
+vahim vaktin vesika
+ yasak yaşlı yazma yekûn yerli yıkım yorgun yönetici yüklem yüzlük
+zahmet zıpkın zindan
+değil hepsi kendi nasıl fakat aktar akıma ayrıca bağır bozma buzlu kakma cüret çakma çekme çizer dalış denek derme düşün elden emici erime elbet fiske fitne gazap gerçi hakkı halef haram hatta hazne hissi hamil hücum içeri iliği istif itici ihtar kağan kahır kayma kesme kırış kirli kopuk küsur küfür lakin mahal maşuk meşru metot mimik misal mobil muhit murat muska mezat nağme niçin nihai nizam nöron obruk oktav orijin öbür pasif patik pense pelte pratik pulcu rahim revaç sağır sahan salep saklı sarma sekte sıkma silme sokma sözlü süper sürgü taşra talan talim tamah tasvir tezat tımar tiner topal topçu tutam yağcı yapma yarık yavan yıkık yumru yüklü zıpır sütçü sınai tekin umman vahim raunt palas özgül kayra gezer güzün çatkı çerçi dişil anlık ayrık bende birer bolca ceren cinas cazcı ekili ameli aslen ateşi adamı evini
