@@ -28,4 +28,31 @@ utanç uyarı uzman uygun unsur
 vagon vahşi vakıf vakit valiz vapur vatan vefat vergi verim vezir viraj vişne vites vurgu vücut vaşak vasat vekil video
 yaban yakın yakıt yalan yamaç yanak yarar yarım yarış yaşam yatak yavaş yavru yayla yazar yemek yemin yenge yeşil yetki yılan yığın yolcu yonca yorum yosun yudum yufka yunus yüzey yüzük yağış yakut yalın yanıt yapay yayın yelek yemiş yerel yetim yoğun yokuş yazgı
 zafer zalim zaman zarar zarif zayıf zebra zehir zemin zihin zirve zorlu zurna
-bağış bakım bilim biraz bitiş bütçe belki dokuz doruk döviz dümen dikiş dikey evrim gitar gönül güney hafta henüz hüzün hapis hasar ileri irmik ipucu kabul kabus kaset kaşar katkı kesim kural kurgu kurum kusur keşif keyif kolye köken kucak kumar lanet limit martı mantı mizah metro miyop müjde nefis nemli nikah nisan niyet oğlan palto pedal pompa prova raket ranza robot rende savaş savcı saygı selam senet sevda siper soluk stres sunum surat susuz süngü süslü sıfat şehit şölen tabut takla tamam taraf tartı teori terfi tokat tulum turna tutum tuzlu tümce telve temas ucube uyluk verem yağlı yamuk yarın yasak yaşlı yiğit yonga yürek zanlı zinde zulüm zikir aygıt anten bilge cephe çarpı çizim darbe damak gamze hadis hatip ısrar ihmal imdat itaat kovan kovuk kolon köklü lüfer lügat mabet mısra mizaç namlu oynak olası ölçüt övünç pelin pinti pipet rahip rayiç safir sahip sakat sedir sedye sicil sapan tabla tacir tekil tenha terör tıkaç tortu tövbe tuğra zımba abone açlık adalı ahali alkol ateşli aydın ayrım azade barok bakla bidon boğuk buhar bulgu burgu buruk ceren çetin çökme çöpçü damga denge devre dizin doğum döşek dürtü ebedi ecdat egzoz enkaz esmer eşlik ezeli fanus fayda fidye fişek gelir gergi gönye haber hafif hamsi harem hatır hızlı ispat irfan kesin kıyas kubbe kuşku makam memur metal nadas nefer nesne nezle nüans poyraz sahra saksı sanal savaş seçme serap sıkça soylu tanım takas tuhaf tuzla ürkek yaşlı yazma yerli yıkım
+bağış bakım bilim biraz bitiş bütçe belki dokuz doruk döviz dümen dikiş dikey evrim gitar gönül güney hafta henüz hüzün hapis hasar ileri irmik ipucu kabul kabus kaset kaşar katkı kesim kural kurgu kurum kusur keşif keyif kolye köken kucak kumar lanet limit martı mantı mizah metro miyop müjde nefis nemli nikah nisan niyet oğlan palto pedal pompa prova raket ranza robot rende savaş savcı saygı selam senet sevda siper soluk stres sunum surat susuz süngü süslü sıfat şehit şölen tabut takla tamam taraf tartı teori terfi tokat tulum turna tutum tuzlu tümce telve temas ucube uyluk verem yağlı yamuk yarın yasak yaşlı yiğit yonga yürek zanlı zinde zulüm zikir aygıt anten bilge cephe çarpı çizim darbe damak gamze hadis hatip ısrar ihmal imdat itaat kovan kovuk kolon köklü lüfer lügat mabet mısra mizaç namlu oynak olası ölçüt övünç pelin pinti pipet rahip rayiç safir sahip sakat sedir sedye sicil sapan tabla tacir tekil tenha terör tıkaç tortu tövbe tuğra zımba abone açlık adalı ahali alkol aydın ayrım azade barok bakla bidon boğuk buhar bulgu burgu buruk ceren çetin çökme çöpçü damga denge devre dizin doğum döşek dürtü ebedi ecdat egzoz enkaz esmer eşlik ezeli fanus fayda fidye fişek gelir gergi gönye haber hafif hamsi harem hatır hızlı ispat irfan kesin kıyas kubbe kuşku makam memur metal nadas nefer nesne nezle nüans sahra saksı sanal savaş seçme serap sıkça soylu tanım takas tuhaf tuzla ürkek yaşlı yazma yerli yıkım
+# 2026-11-05 genişletme: Zemberek adaylarından elle seçilen yaygın kelimeler
+ahmak aidat akran aksak albay alaka amber ampul antik arşiv astım ataşe atlet avans aygır aylık
+bacak bagaj baget balet bambu bamya baron bariz baton bayan belde besin beste beyan beyit biblo bobin bohça bordo bronz bucak budak buton buzul buçuk bünye
+cacık casus cemre cezve cihan cilve cisim coşku cübbe cüsse cılız
+dakik davar dağcı dağlı dekan dekar delik delil delta demeç deney derbi derya detay deyiş diken dinar divan diyar diyet dişli dogma dosya doyum dozaj doğan drama dudak durum dönüm düzey düğüm
+efekt ejder eklem eksen elips enlem enzim erdem esans espri esrar etnik eylül
+fasıl fauna felek ferah fesat fetih fiber figür fiske fitne flama flora flört folyo forma forum fresk fular fulya funda
+gafil galon gazap gedik geniş geyik gocuk gonca goril gotik guguk gurme gövde gözde günce
+hacim halay hamak hanım hasım hatun havan havza hazin hazne hisar hiciv hokey horon hurda hurma husus hücum hülya hıyar
+ibare iblis ibret iddia idman idrak iflas iftar ihbar ihraç ihsan ilahi ilave ileti incir infaz inkar ironi istif itham iştah
+joker
+kabin kabir kabuk kadro kalay kalfa kamçı kanıt kapan kargo karma kasko kasıt katip kavis kavim kayıp kayış kaçak kağnı kefil kefir kepek kesit kesir keten kibir kireç klima klips klişe kobra kolaj komut konut kopça korna korse koğuş kramp kredi krema kriko kroki kuduz kulaç kupon kuram kurul kurye kutlu kuytu kuzen kuşak küfür külçe künye küvet kıdem kılıf kıssa kıvam
+lahit larva lazer lehim lehçe lirik litre lodos lonca lotus
+maddi mafya magma maket makul mamut manda mango manto masaj matem mayın mazot medya mekik melon menşe meram mesai metan metot mevki mezun milat milim milis mimik modem moloz motif mumya muska müftü
+nakil narin nasır neden ninni nizam noter nutuk nüfuz nükte nüsha
+obruk oksit omlet opera optik otizm
+pabuç paket palet panda papaz parke pasif paten payda peron peruk pikap piliç piton pivot piyon pizza plato plaza poker polen proje pruva pıhtı
+radar rakım ralli rehin rejim resif revir rezil rodeo rötar rötuş rutin rütbe rızık
+saban safha safra sahaf sahur salep salsa samba sanrı sarık sauna sazan saçak saçma sağır seans sebep secde sedef sefil sefir serum servi sesli sezgi sezon sicim sifon siren siroz sivil sivri soket somon sorgu sosis sprey stant statü subay sulak supap suret sönük sözlü söğüt süreç sürgü sütlü sıtma sığır
+taban tabir tabur taciz takke talan talaş talim talip tango tarım taviz tayin tekke tenor tente testi tezat teğet tipik tiraj tiran topuz torna tosun totem trafo triko tugay turbo turne tutam tüzük türev türbe türlü tütsü
+unvan urgan usanç uygar uğrak
+vahiy vakar vakum varil varis vasıf vezne virüs viski votka
+yafta yahni yankı yapıt yargı yassı yatsı yavuz yaver yayım yazım yağma yedek yeğen yirmi yular yulaf yumak
+zamir zerre zorba
+çabuk çalım çehre çello çevik çoğul çörek çırak çığır
+öksüz öneri önsöz üslup üstat ılıca ıslık şahit şeref şilte şirin şınav
+kumru kuruş kasım nazlı sayaç seyir solak sürat sözcü tümör yatay yüzde dolar dalış dizel eskiz güveç hoşaf hokka lavaş lisan conta

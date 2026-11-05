@@ -8,9 +8,18 @@ Altı denemede beş harfli Türkçe kelimeyi bulma oyunu. Sınırsız mod: her k
 - İstatistik, seri ve yarım kalan oyun tarayıcıda (localStorage) saklanır.
 
 ## Kelime listesi
-`kelimeler/cevaplar.txt` (seçilecek yaygın kelimeler) ve `kelimeler/ek-tahminler.txt`
-(yalnız tahmin olarak kabul edilenler) elle derlendi. Değiştirdikten sonra:
+Toplam 5661 kabul edilen tahmin, bunların 1519'u cevap olarak seçilebilir.
+
+- `kelimeler/cevaplar.txt`: seçilecek yaygın, yalın kelimeler (elle derlendi).
+- `kelimeler/ek-tahminler.txt`: yalnız tahmin olarak kabul edilen ek kelimeler (elle derlendi).
+- `kelimeler/kaynak-zemberek.txt`: [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) sözlüğünden
+  (`master-dictionary.dict`, `non-tdk.dict`) türetildi. Lisans: Apache License 2.0, telif Ahmet A. Akın ve
+  Mehmet D. Akın; lisans metni `kelimeler/ZEMBEREK-LISANS.txt`. Değişiklik: yalnız 5 harfli girdiler alındı,
+  özel ad, kısaltma, ünlem ve noktalama atıldı; 8 harfli -mak/-mek fiillerinin kökü (bekle, çalış) eklendi.
+- `kelimeler/cikarilanlar.txt`: hiçbir listeye girmeyecek kelimeler (argo, küfür, aşağılayıcı, özel ad, marka).
+
+Değiştirdikten sonra:
 
     python3 araclar/kelimeleri-derle.py
 
-Bu komut 5 harfli olmayanları atlar ve `kelimeler.js` dosyasını yeniden üretir.
+Bu komut 5 harfli olmayanları atlar, tekrarları ve çıkarılanları ayıklar, `kelimeler.js` dosyasını yeniden üretir.
