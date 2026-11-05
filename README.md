@@ -8,14 +8,16 @@ Altı denemede beş harfli Türkçe kelimeyi bulma oyunu. Sınırsız mod: her k
 - İstatistik, seri ve yarım kalan oyun tarayıcıda (localStorage) saklanır.
 
 ## Kelime listesi
-Toplam 5661 kabul edilen tahmin, bunların 1519'u cevap olarak seçilebilir.
+Toplam 2950 kabul edilen tahmin; bunların 1546'sı cevap olarak seçilebilir, 1404'ü yalnız tahmin olarak kabul edilir.
 
 - `kelimeler/cevaplar.txt`: seçilecek yaygın, yalın kelimeler (elle derlendi).
-- `kelimeler/ek-tahminler.txt`: yalnız tahmin olarak kabul edilen ek kelimeler (elle derlendi).
+- `kelimeler/ek-tahminler.txt`: yalnız tahmin olarak kabul edilenler: elle derlenen kelimeler, Zemberek'ten elle
+  seçilen fiil kökleri (bekle, çalış) ve bilinen kelimeler, ünlü uyumuyla üretilen sık ekli biçimler (gözüm, yolda, evler).
 - `kelimeler/kaynak-zemberek.txt`: [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) sözlüğünden
-  (`master-dictionary.dict`, `non-tdk.dict`) türetildi. Lisans: Apache License 2.0, telif Ahmet A. Akın ve
-  Mehmet D. Akın; lisans metni `kelimeler/ZEMBEREK-LISANS.txt`. Değişiklik: yalnız 5 harfli girdiler alındı,
-  özel ad, kısaltma, ünlem ve noktalama atıldı; 8 harfli -mak/-mek fiillerinin kökü (bekle, çalış) eklendi.
+  (`master-dictionary.dict`, `non-tdk.dict`) çıkarılan 5 harfli kelimeler. Lisans: Apache License 2.0, telif
+  Ahmet A. Akın ve Mehmet D. Akın; lisans metni `kelimeler/ZEMBEREK-LISANS.txt`. Değişiklik: yalnız 5 harfli girdiler
+  alındı; özel ad, kısaltma, ünlem ve noktalama atıldı; 8 harfli -mak/-mek fiillerinin kökü eklendi. Bu dosya derlemeye
+  doğrudan girmez; `ek-tahminler.txt` için seçim kaynağıdır.
 - `kelimeler/cikarilanlar.txt`: hiçbir listeye girmeyecek kelimeler (argo, küfür, aşağılayıcı, özel ad, marka).
 
 Değiştirdikten sonra:

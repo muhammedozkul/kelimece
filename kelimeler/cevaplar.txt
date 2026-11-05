@@ -56,3 +56,5 @@ zamir zerre zorba
 çabuk çalım çehre çello çevik çoğul çörek çırak çığır
 öksüz öneri önsöz üslup üstat ılıca ıslık şahit şeref şilte şirin şınav
 kumru kuruş kasım nazlı sayaç seyir solak sürat sözcü tümör yatay yüzde dolar dalış dizel eskiz güveç hoşaf hokka lavaş lisan conta
+# 2026-11-05 ek seçim (-la/-le/-al/-el ile bitenler)
+aptal final ideal iptal ishal kukla kütle kıble molla motel nikel panel tuval uysal villa yasal helal kelle kaval kefal emsal misal gazel skala koala duble bukle

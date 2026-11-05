@@ -4,7 +4,8 @@ Kullanım:  python3 araclar/kelimeleri-derle.py
 
 - cevaplar.txt        : seçilecek yaygın kelimeler (elle derlendi)
 - ek-tahminler.txt    : yalnız tahmin olarak kabul edilen ek kelimeler (elle derlendi)
-- kaynak-zemberek.txt : Zemberek-NLP sözlüğünden 5 harfli kelimeler (Apache-2.0)
+- kaynak-zemberek.txt : Zemberek-NLP sözlüğünden 5 harfli kelimeler (Apache-2.0); derlemeye
+                        doğrudan girmez, ek-tahminler.txt için elle seçim kaynağıdır
 - cikarilanlar.txt    : hiçbir listede yer almayacak kelimeler (argo, özel ad vb.)
 
 Yalnız 5 harfli, Türkçe alfabedeki kelimeler alınır; diğerleri raporlanıp atlanır.
@@ -39,7 +40,7 @@ cikar = set(oku("cikarilanlar.txt"))
 cevap_ham = oku("cevaplar.txt")
 tekrar = len(cevap_ham) - len(set(cevap_ham))
 cevaplar = sorted(set(cevap_ham) - cikar)
-kabul = set(cevaplar) | set(oku("ek-tahminler.txt")) | set(oku("kaynak-zemberek.txt"))
+kabul = set(cevaplar) | set(oku("ek-tahminler.txt"))
 tahminler = sorted(kabul - cikar - set(cevaplar))
 
 js = (
