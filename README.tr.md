@@ -9,6 +9,10 @@ Altı denemede beş harfli Türkçe kelimeyi bulma oyunu. Sınırsız mod: her k
 - Ekran klavyesi (Türkçe harflerle) ve fiziksel klavye; Enter gönderir, Backspace siler.
 - İstatistik, seri ve yarım kalan oyun tarayıcıda (localStorage) saklanır.
 
+🔤 **Tarayıcıda oyna:** https://muhammedozkul.github.io/kelimece/
+
+<p align="center"><img src="media/demo.gif" alt="Beş harfli kelimeyi üç tahminde bulmak" width="720"></p>
+
 ## Kelime listesi
 Toplam 2950 kabul edilen tahmin; bunların 1546'sı cevap olarak seçilebilir, 1404'ü yalnız tahmin olarak kabul edilir.
 

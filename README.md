@@ -9,6 +9,10 @@ A game where you find a five-letter Turkish word in six guesses. Unlimited mode:
 - On-screen keyboard (with Turkish letters) and physical keyboard; Enter submits, Backspace deletes.
 - Stats, streaks and an unfinished game are saved in the browser (localStorage).
 
+🔤 **Play in your browser:** https://muhammedozkul.github.io/kelimece/
+
+<p align="center"><img src="media/demo.gif" alt="Guessing the five-letter word in three tries" width="720"></p>
+
 ## Word list
 2,950 accepted guesses in total; 1,546 of them can be chosen as answers, 1,404 are accepted only as guesses.
 
