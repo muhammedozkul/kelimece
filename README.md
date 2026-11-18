@@ -1,27 +1,29 @@
+**English** · [Türkçe](README.tr.md)
+
 # Kelimece
 
-Altı denemede beş harfli Türkçe kelimeyi bulma oyunu. Sınırsız mod: her kelime bitince yenisi gelir.
+A game where you find a five-letter Turkish word in six guesses. Unlimited mode: when one word is done, a new one comes.
 
-- Oynamak: `index.html` dosyasını tarayıcıda aç (ya da `python3 -m http.server` ile sun).
-- Renkler: turkuaz = doğru yerde, mercan = kelimede var ama başka yerde, gri = yok.
-- Ekran klavyesi (Türkçe harflerle) ve fiziksel klavye; Enter gönderir, Backspace siler.
-- İstatistik, seri ve yarım kalan oyun tarayıcıda (localStorage) saklanır.
+- To play: open `index.html` in a browser (or serve it with `python3 -m http.server`).
+- Colors: turquoise = right letter in the right spot, coral = in the word but in another spot, gray = not in the word.
+- On-screen keyboard (with Turkish letters) and physical keyboard; Enter submits, Backspace deletes.
+- Stats, streaks and an unfinished game are saved in the browser (localStorage).
 
-## Kelime listesi
-Toplam 2950 kabul edilen tahmin; bunların 1546'sı cevap olarak seçilebilir, 1404'ü yalnız tahmin olarak kabul edilir.
+## Word list
+2,950 accepted guesses in total; 1,546 of them can be chosen as answers, 1,404 are accepted only as guesses.
 
-- `kelimeler/cevaplar.txt`: seçilecek yaygın, yalın kelimeler (elle derlendi).
-- `kelimeler/ek-tahminler.txt`: yalnız tahmin olarak kabul edilenler: elle derlenen kelimeler, Zemberek'ten elle
-  seçilen fiil kökleri (bekle, çalış) ve bilinen kelimeler, ünlü uyumuyla üretilen sık ekli biçimler (gözüm, yolda, evler).
-- `kelimeler/kaynak-zemberek.txt`: [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) sözlüğünden
-  (`master-dictionary.dict`, `non-tdk.dict`) çıkarılan 5 harfli kelimeler. Lisans: Apache License 2.0, telif
-  Ahmet A. Akın ve Mehmet D. Akın; lisans metni `kelimeler/ZEMBEREK-LISANS.txt`. Değişiklik: yalnız 5 harfli girdiler
-  alındı; özel ad, kısaltma, ünlem ve noktalama atıldı; 8 harfli -mak/-mek fiillerinin kökü eklendi. Bu dosya derlemeye
-  doğrudan girmez; `ek-tahminler.txt` için seçim kaynağıdır.
-- `kelimeler/cikarilanlar.txt`: hiçbir listeye girmeyecek kelimeler (argo, küfür, aşağılayıcı, özel ad, marka).
+- `kelimeler/cevaplar.txt`: common, plain words that can be chosen as answers (hand-curated).
+- `kelimeler/ek-tahminler.txt`: words accepted only as guesses: hand-curated words, verb roots hand-picked from Zemberek
+  (bekle, çalış) and known words, and common suffixed forms generated with vowel harmony (gözüm, yolda, evler).
+- `kelimeler/kaynak-zemberek.txt`: five-letter words extracted from the [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp)
+  dictionary (`master-dictionary.dict`, `non-tdk.dict`). License: Apache License 2.0, copyright
+  Ahmet A. Akın and Mehmet D. Akın; license text in `kelimeler/ZEMBEREK-LISANS.txt`. Changes: only five-letter entries
+  were kept; proper nouns, abbreviations, interjections and punctuation were removed; roots of eight-letter -mak/-mek verbs were added.
+  This file is not compiled directly; it is the source for picking entries for `ek-tahminler.txt`.
+- `kelimeler/cikarilanlar.txt`: words that never go into any list (slang, profanity, slurs, proper nouns, brands).
 
-Değiştirdikten sonra:
+After making changes:
 
     python3 araclar/kelimeleri-derle.py
 
-Bu komut 5 harfli olmayanları atlar, tekrarları ve çıkarılanları ayıklar, `kelimeler.js` dosyasını yeniden üretir.
+This command skips words that aren't five letters, removes duplicates and excluded words, and regenerates `kelimeler.js`.
